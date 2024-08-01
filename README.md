@@ -112,8 +112,8 @@ Para utilizar el aplicativo:
 
 * Haz clic en el botón Iniciar Prueba para comenzar.
 
-##Nota: Puedes encontrar **iperf3.exe** en la carpeta iperf3 o descargarlo desde Internet.##
+**Nota: Puedes encontrar iperf3.exe en la carpeta iperf3 o descargarlo desde Internet.**
 
-###Agradecimientos
+### Agradecimientos
 
 Este proyecto se basa en iperf3, una herramienta de pruebas de red. Puedes encontrar más información sobre iperf3 en su sitio oficial.
