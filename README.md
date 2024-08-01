@@ -80,15 +80,20 @@ Abre una ventana de CMD.
 1. Asegúrate de que el servidor de iperf3 esté corriendo en el equipo o servidor que va a recibir las pruebas.
 
 2. Inicia la aplicación GUI:
+   
+ ![imagen 1](https://github.com/Jhonyd55/Iperf3-GUI/blob/main/imagen1.png)  
 
 3. En la interfaz de usuario:
 
 * Introduce la IP del servidor que está escuchando en el campo Server IP.
 * Especifica el tiempo deseado para tu prueba en el campo Tiempo de prueba (s).
 * Haz clic en el botón Iniciar Prueba para comenzar.
+  
+   ![imagen 2](https://github.com/Jhonyd55/Iperf3-GUI/blob/main/imagen2.png)  
 
 4. Los resultados de las pruebas se mostrarán en el gráfico de la GUI.
-
+   
+ ![imagen 3](https://github.com/Jhonyd55/Iperf3-GUI/blob/main/imagen3.png)  
 
 ### Instrucciones de Uso
 
