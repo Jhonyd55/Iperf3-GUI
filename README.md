@@ -46,10 +46,10 @@ sudo apt-get update
 ## 2. Instala iperf3:
 
 sudo apt-get install iperf3
-
+```
 ## En Windows
 
-Descarga iperf3 desde aquí.
+Descarga iperf3 desde [aquí](https://iperf.fr/).
 
 Extrae el contenido del archivo descargado en una carpeta, por ejemplo, C:\iperf3.
 
@@ -59,7 +59,7 @@ Extrae el contenido del archivo descargado en una carpeta, por ejemplo, C:\iperf
 
 Para iniciar el servidor de iperf3 en Linux, ejecuta el siguiente comando en la terminal:
 
-iperf3 -s
+```iperf3 -s ```
 
 ### En Windows
 
@@ -67,13 +67,13 @@ iperf3 -s
 
 Abre una ventana de CMD.
 
-2. Navega a la carpeta donde está ##iperf3.exe##, por ejemplo:
+2. Navega a la carpeta donde está **iperf3.exe**, por ejemplo:
 
-cd C:\iperf3
+```cd C:\iperf3```
 
 3. Ejecuta el siguiente comando:
 
-iperf3.exe -s
+```iperf3.exe -s```
 
 ### Uso del Aplicativo
 
@@ -100,7 +100,7 @@ Para utilizar el aplicativo:
 
 1. Preparación:
 
-* Asegúrate de tener un equipo o servidor corriendo iperf3 -s. Esto se hace por el CMD en el equipo que escucha.
+* Asegúrate de tener un equipo o servidor corriendo **iperf3 -s**. Esto se hace por el CMD en el equipo que escucha.
 
 2. Configuración:
 
@@ -112,7 +112,7 @@ Para utilizar el aplicativo:
 
 * Haz clic en el botón Iniciar Prueba para comenzar.
 
-##Nota: Puedes encontrar iperf3.exe en la carpeta iperf3 o descargarlo desde Internet.##
+##Nota: Puedes encontrar **iperf3.exe** en la carpeta iperf3 o descargarlo desde Internet.##
 
 ###Agradecimientos
 
